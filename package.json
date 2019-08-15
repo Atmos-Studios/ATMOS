@@ -1,0 +1,28 @@
+{
+  "name": "project-atmos",
+  "version": "0.0.1",
+  "description": "Automated. Technology. Moderation. Overpowered. Security.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ping.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atmos-Studios/ATMOS.git"
+  },
+  "keywords": [
+    "Automation",
+    "Security",
+    "Moderation"
+  ],
+  "author": "Austin Foster (YourDeadPixels)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Atmos-Studios/ATMOS/issues"
+  },
+  "homepage": "https://github.com/Atmos-Studios/ATMOS#readme"
+}
